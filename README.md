@@ -1,0 +1,1 @@
+git@github.com:martynetsmv/slozhno-sosredotochitsya-fd.git
