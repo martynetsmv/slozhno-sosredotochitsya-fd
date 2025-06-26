@@ -1,5 +1,5 @@
 .page {
-  font-family: var(--main-font, sans-serif);
+  font-family: var(--main-font, monospace);
   font-size: var(--font-size, 18px);
   line-height: var(--line-height, 130%);
   background-image: var(--cover-image);
